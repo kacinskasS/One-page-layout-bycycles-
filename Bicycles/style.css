@@ -934,11 +934,10 @@ footer .inner .rightside h2{
     }   
 }
 
-/*onlytablet*/
+
 @media(max-width:667px) and (max-width:1024px){    
 }
 
-/*only phone*/
 @media(max-width:667px){  
     .sectionsixth .leftside,
     .sectionsixth .middle,
